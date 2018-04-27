@@ -1,3 +1,5 @@
+__author__ = 'Alvaro Muir, Vz IT Analytics Data Engineering'
+
 from mock import MagicMock
 from jobs.wordcount import to_pairs
 

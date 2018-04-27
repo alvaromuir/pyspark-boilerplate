@@ -1,3 +1,5 @@
+__author__ = 'Alvaro Muir, Vz IT Analytics Data Engineering'
+
 from mock import patch
 from pysparkling import Context
 from jobs.wordcount import analyze

@@ -1,3 +1,5 @@
+__author__ = 'Alvaro Muir, Vz IT Analytics Data Engineering'
+
 from collections import OrderedDict
 from tabulate import tabulate
 
